@@ -1,0 +1,22 @@
+# Types of Cloud
+  There are 3 types of cloud :
+* Private cloud 
+* Public cloud 
+* Hybrid cloud
+    
+## Private cloud
+Private cloud is a cloud service which is owned by a particular company or an organization.
+This cloud computing service is not accessible to the outside world.
+It is only accessible to the people only for perticular organization.
+It can be managed by a 3rd party company but only for the use of the company whic owns it.
+
+
+## Public cloud 
+Public cloud is a cloud which is owned by 3rd party company and can be used by any indivdual. 
+This service is not owned by any company and  can be used by any particular individual, school, organization etc.
+An example of public cloud is ***Google drive***
+
+## Hybrid cloud 
+Hybrid cloud is a mixture of both private and public cloud.
+for example if a big company has its own private cloud service and still they are using google drive
+to store their data then it is an example of hybrid cloud.
