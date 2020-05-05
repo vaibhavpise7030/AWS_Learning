@@ -1,5 +1,3 @@
-**Day2** 
-
 
 # Three Models of cloud services : 		
 * SaaS (Software as a Srvice)
@@ -33,8 +31,8 @@ Examples :
 * Developer has to focus only on software development without the worrying about Operating system, Storage etc
 
 Examples :
-1) Hosted db RDS,
-2) AWS Elastic Beanstalk,etc.
+	1) Hosted db RDS,
+	2) AWS Elastic Beanstalk,etc.
 
 ---
 
@@ -45,5 +43,5 @@ Examples :
 - Provides access to resources like - servers,storage and netwroking.
 
 Examples :
-1) VM: Ec-2,
-2) Volume,etc.
+	1) VM: Ec-2,
+	2) Volume(S-3),etc.
