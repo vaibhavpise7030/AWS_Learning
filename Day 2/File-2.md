@@ -1,6 +1,6 @@
 **AWS Firewall : Security Groups**
 
-![Security group](C:\Users\Admin\Desktop\Security group.png)
+![Security group](https://github.com/vaibhavpise7030/AWS_Learning/blob/master/Images/Annotation%202020-05-06%20194957.png)
 
 - 2 Sets of rules:
 	1. Inbound	    - Controls incoming traffic
