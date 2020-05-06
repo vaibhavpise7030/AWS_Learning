@@ -16,7 +16,7 @@
              
 ### 3) Make Directory: 
       * command: ` mkdir ` 
-      ![MAKE DIRECTORY] (https://github.com/vaibhavpise7030/AWS_Learning/blob/master/Day%203/Images/2.png)
+      ![MAKE DIRECTORY] (Day%203/Images/2.png)
 ------------
 ### 4) create cpp file
     * `vi vaibhav.cpp` (create a cpp file)
