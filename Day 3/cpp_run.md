@@ -43,7 +43,7 @@
 ### 9) compile code
 * `g++ vaibhav.cpp -o vaibhav` (compile code)
 ---------
-### 10) Rune code
+### 10) Run code
 * `./vaibhav` 
 
 
