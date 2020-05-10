@@ -7,7 +7,7 @@
   * `"gcc -v"` if it will display
   * `"gcc : command not found"`
   then run 
-  * `apt-get install gcc-core` .
+  * `sudo su yum -y install gcc-c++` .
   -------
   
 ### 2) Now, after that check whether gcc tool installed or not by 
